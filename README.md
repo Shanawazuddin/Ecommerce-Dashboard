@@ -1,6 +1,6 @@
 # 🛍️ Ecommerce Sales Dashboard – Power BI Project
 
-[Sales Dashboard](<img width="1335" height="751" alt="Dashboard image" src="https://github.com/user-attachments/assets/b45a2c80-077a-43e2-a107-cfce9792c4ca" />)
+![Sales Dashboard](<img width="1335" height="751" alt="Dashboard image" src="https://github.com/user-attachments/assets/b45a2c80-077a-43e2-a107-cfce9792c4ca" />)
 
 ## 📌 Overview
 
